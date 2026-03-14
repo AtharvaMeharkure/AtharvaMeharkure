@@ -14,8 +14,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Building+AI+systems+that+actually+work;Deepfake+Detection+%7C+Computer+Vision;Turning+data+into+decisions;Open+to+internships+%26+collaborations)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharva-meharkure)
-[![GitHub followers](https://img.shields.io/github/followers/atharva-meharkure?style=for-the-badge&color=00D9FF&labelColor=0d1117&label=Followers)](https://github.com/atharva-meharkure)
-[![Profile Views](https://komarev.com/ghpvc/?username=atharva-meharkure&style=for-the-badge&color=00D9FF&label=Profile+Views)](https://github.com/atharva-meharkure)
+[![GitHub followers](https://img.shields.io/github/followers/AtharvaMeharkure?style=for-the-badge&color=00D9FF&labelColor=0d1117&label=Followers)](https://github.com/AtharvaMeharkure)
+[![Profile Views](https://komarev.com/ghpvc/?username=AtharvaMeharkure&style=for-the-badge&color=00D9FF&label=Profile+Views)](https://github.com/AtharvaMeharkure)
 
 </div>
 
@@ -24,7 +24,7 @@
 ## `whoami`
 
 ```python
-class AtharvaMeharkure:
+class AtharvaSambhajiMeharkure:
     role        = "AI & Data Science Engineering Student"
     location    = "India"
     currently   = ["Deep Learning", "Computer Vision", "AI Product Development"]
@@ -52,7 +52,7 @@ class AtharvaMeharkure:
 
 `Python` `OpenCV` `MediaPipe` `Scikit-Learn`
 
-[![Repo](https://img.shields.io/badge/View_Repo-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/atharva-meharkure)
+[![Repo](https://img.shields.io/badge/View_Repo-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/AtharvaMeharkure)
 
 </td>
 <td width="50%" valign="top">
@@ -67,7 +67,7 @@ class AtharvaMeharkure:
 
 `Pandas` `NumPy` `Matplotlib` `Scikit-Learn`
 
-[![Repo](https://img.shields.io/badge/View_Repo-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/atharva-meharkure)
+[![Repo](https://img.shields.io/badge/View_Repo-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/AtharvaMeharkure)
 
 </td>
 </tr>
@@ -84,7 +84,7 @@ class AtharvaMeharkure:
 
 `Python` `NumPy` `TensorFlow` `PyTorch`
 
-[![Repo](https://img.shields.io/badge/View_Repo-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/atharva-meharkure)
+[![Repo](https://img.shields.io/badge/View_Repo-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/AtharvaMeharkure)
 
 </td>
 <td width="50%" valign="top">
@@ -99,7 +99,7 @@ class AtharvaMeharkure:
 
 `OpenCV` `PyTorch` `HuggingFace` `Jupyter`
 
-[![Repo](https://img.shields.io/badge/View_Repo-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/atharva-meharkure)
+[![Repo](https://img.shields.io/badge/View_Repo-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/AtharvaMeharkure)
 
 </td>
 </tr>
@@ -145,14 +145,14 @@ class AtharvaMeharkure:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=atharva-meharkure&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharva-meharkure&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9&langs_count=6" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AtharvaMeharkure&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvaMeharkure&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9&langs_count=6" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=atharva-meharkure&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=AtharvaMeharkure&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF)](https://git.io/streak-stats)
 
 </div>
 
@@ -177,7 +177,7 @@ class AtharvaMeharkure:
 | Platform | Link |
 |----------|------|
 | 💼 LinkedIn | [linkedin.com/in/atharva-meharkure](https://www.linkedin.com/in/atharva-meharkure) |
-| 🐙 GitHub | [github.com/atharva-meharkure](https://github.com/atharva-meharkure) |
+| 🐙 GitHub | [github.com/AtharvaMeharkure](https://github.com/AtharvaMeharkure) |
 | 📧 Email | Open to contact via LinkedIn DM |
 
 **Open to:** Internships · Research Collaborations · Open Source Projects · Startup Ideas
